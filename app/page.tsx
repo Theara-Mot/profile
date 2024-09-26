@@ -12,7 +12,7 @@ export default function Home() {
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        background: "linear-gradient(135deg, #ff7e5f, #feb47b)",
+        background: "linear-gradient(135deg, #87CEFA, #00BFFF)",
       }}
     >
       <div
