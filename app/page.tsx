@@ -1,3 +1,4 @@
+"use client";  
 export default function Home() {
   const shutdownComputer = () => {
     alert("Shutting down... Just kidding!");
